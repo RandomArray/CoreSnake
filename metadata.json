@@ -1,0 +1,5 @@
+{
+  "name": "EvoSnake: Evolutionary AI Lab",
+  "description": "A high-performance Snake game where an AI agent evolves through reinforcement learning and genetic algorithms. Watch the neural network learn to navigate, hunt, and survive over generations.",
+  "requestFramePermissions": []
+}
